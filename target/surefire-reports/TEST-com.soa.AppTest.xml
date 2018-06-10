@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.soa.AppTest" time="0.026" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="D:\ccz20180223\devproject\soa\target\test-classes;D:\ccz20180223\devproject\soa\target\classes;D:\ccz20180223\repo\maven\javax\servlet\servlet-api\2.5\servlet-api-2.5.jar;D:\ccz20180223\repo\maven\junit\junit\4.10\junit-4.10.jar;D:\ccz20180223\repo\maven\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;D:\ccz20180223\repo\maven\com\fasterxml\jackson\core\jackson-core\2.0.0\jackson-core-2.0.0.jar;D:\ccz20180223\repo\maven\org\codehaus\jackson\jackson-mapper-asl\1.8.7\jackson-mapper-asl-1.8.7.jar;D:\ccz20180223\repo\maven\org\codehaus\jackson\jackson-core-asl\1.8.7\jackson-core-asl-1.8.7.jar;D:\ccz20180223\repo\maven\org\springframework\spring-webmvc\4.0.3.RELEASE\spring-webmvc-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\org\springframework\spring-expression\4.0.3.RELEASE\spring-expression-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\org\springframework\spring-web\4.0.3.RELEASE\spring-web-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\org\springframework\spring-context\4.0.3.RELEASE\spring-context-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\org\springframework\spring-core\4.0.3.RELEASE\spring-core-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;D:\ccz20180223\repo\maven\org\springframework\spring-beans\4.0.3.RELEASE\spring-beans-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\org\springframework\spring-aop\4.0.3.RELEASE\spring-aop-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;D:\ccz20180223\repo\maven\org\springframework\spring-tx\4.0.3.RELEASE\spring-tx-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\org\springframework\spring-jdbc\4.0.3.RELEASE\spring-jdbc-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\org\springframework\spring-test\4.0.3.RELEASE\spring-test-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\org\springframework\spring-context-support\4.0.3.RELEASE\spring-context-support-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\org\slf4j\slf4j-api\1.7.10\slf4j-api-1.7.10.jar;D:\ccz20180223\repo\maven\ch\qos\logback\logback-classic\1.1.2\logback-classic-1.1.2.jar;D:\ccz20180223\repo\maven\ch\qos\logback\logback-core\1.1.2\logback-core-1.1.2.jar;D:\ccz20180223\repo\maven\com\alibaba\fastjson\1.2.37\fastjson-1.2.37.jar;D:\ccz20180223\repo\maven\io\netty\netty-all\5.0.0.Alpha2\netty-all-5.0.0.Alpha2.jar;D:\ccz20180223\repo\maven\redis\clients\jedis\2.7.3\jedis-2.7.3.jar;D:\ccz20180223\repo\maven\org\apache\commons\commons-pool2\2.3\commons-pool2-2.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_144\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\partner\AppData\Local\Temp\surefire6189041687188424745\surefirebooter8738662011211072938.jar C:\Users\partner\AppData\Local\Temp\surefire6189041687188424745 2018-06-10T23-11-55_766-jvmRun1 surefire484787535378672207tmp surefire_07188937892327160626tmp"/>
+    <property name="surefire.test.class.path" value="D:\ccz20180223\devproject\soa\target\test-classes;D:\ccz20180223\devproject\soa\target\classes;D:\ccz20180223\repo\maven\javax\servlet\servlet-api\2.5\servlet-api-2.5.jar;D:\ccz20180223\repo\maven\junit\junit\4.10\junit-4.10.jar;D:\ccz20180223\repo\maven\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;D:\ccz20180223\repo\maven\com\fasterxml\jackson\core\jackson-core\2.0.0\jackson-core-2.0.0.jar;D:\ccz20180223\repo\maven\org\codehaus\jackson\jackson-mapper-asl\1.8.7\jackson-mapper-asl-1.8.7.jar;D:\ccz20180223\repo\maven\org\codehaus\jackson\jackson-core-asl\1.8.7\jackson-core-asl-1.8.7.jar;D:\ccz20180223\repo\maven\org\springframework\spring-webmvc\4.0.3.RELEASE\spring-webmvc-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\org\springframework\spring-expression\4.0.3.RELEASE\spring-expression-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\org\springframework\spring-web\4.0.3.RELEASE\spring-web-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\org\springframework\spring-context\4.0.3.RELEASE\spring-context-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\org\springframework\spring-core\4.0.3.RELEASE\spring-core-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;D:\ccz20180223\repo\maven\org\springframework\spring-beans\4.0.3.RELEASE\spring-beans-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\org\springframework\spring-aop\4.0.3.RELEASE\spring-aop-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;D:\ccz20180223\repo\maven\org\springframework\spring-tx\4.0.3.RELEASE\spring-tx-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\org\springframework\spring-jdbc\4.0.3.RELEASE\spring-jdbc-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\org\springframework\spring-test\4.0.3.RELEASE\spring-test-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\org\springframework\spring-context-support\4.0.3.RELEASE\spring-context-support-4.0.3.RELEASE.jar;D:\ccz20180223\repo\maven\org\slf4j\slf4j-api\1.7.10\slf4j-api-1.7.10.jar;D:\ccz20180223\repo\maven\ch\qos\logback\logback-classic\1.1.2\logback-classic-1.1.2.jar;D:\ccz20180223\repo\maven\ch\qos\logback\logback-core\1.1.2\logback-core-1.1.2.jar;D:\ccz20180223\repo\maven\com\alibaba\fastjson\1.2.37\fastjson-1.2.37.jar;D:\ccz20180223\repo\maven\io\netty\netty-all\5.0.0.Alpha2\netty-all-5.0.0.Alpha2.jar;D:\ccz20180223\repo\maven\redis\clients\jedis\2.7.3\jedis-2.7.3.jar;D:\ccz20180223\repo\maven\org\apache\commons\commons-pool2\2.3\commons-pool2-2.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\partner"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files (x86)\Java\jdk1.8.0_144\jre"/>
+    <property name="basedir" value="D:\ccz20180223\devproject\soa"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\partner\AppData\Local\Temp\surefire6189041687188424745\surefirebooter8738662011211072938.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="java.runtime.version" value="1.8.0_144-b01"/>
+    <property name="user.name" value="partner"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="localRepository" value="D:\ccz20180223\repo\maven"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\partner\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2017.3.4"/>
+    <property name="java.version" value="1.8.0_144"/>
+    <property name="user.dir" value="D:\ccz20180223\devproject\soa"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_144\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\ccz20180223\devwafe\jdk1.8\bin;D:\ccz20180223\devwafe\jdk1.8\jre\bin;D:\2018-02-23\runsoft\Git\cmd;D:\ccz20180223\devwafe\apache-maven-3.5.3-bin\apache-maven-3.5.3\bin\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Python27;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\ccz20180223\runsoft\nodejs\;C:\Users\partner\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\partner\AppData\Local\Programs\Python\Python37\;C:\Users\partner\AppData\Roaming\npm;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.144-b01"/>
+    <property name="java.ext.dirs" value="C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.soa.AppTest" time="0.002"/>
+</testsuite>
